@@ -1,5 +1,3 @@
-That's a great approach for organizing your AI projects! Here is a convenient README markdown content you can use for your repository, tailored for projects developed in **Google Colab notebooks** and stored directly in the repo.
-
 ## 🤖 AI Training Projects Repository
 This repository serves as a collection of my Artificial Intelligence and Machine Learning training projects, primarily developed using **Google Colab notebooks** ($`.ipynb` files).
 
@@ -11,8 +9,7 @@ The core of this repository consists of the Colab notebooks, where the code, exp
 * **Jupyter Notebooks:** Each project is contained within one or more **Jupyter Notebooks** (viewable directly on GitHub). These notebooks typically include:
 * Data loading and preprocessing steps.
 * Model architecture definition and training loops.
-* Evaluation metrics and result visualizations.
-* Commentary and explanations.
+* Evaluation metrics and result visualizations (if needed).
 
 
 
@@ -44,6 +41,9 @@ The projects in this repository utilize a variety of popular AI and data science
 While this is a personal training repository, I welcome suggestions and feedback!
 
 * **Issues:** If you find any issues in the notebooks or have suggestions for improvements, please open an **issue**.
-* **Contact:** Feel free to reach out via [Your preferred contact method or link, e.g., LinkedIn/Email].
+* **Contact:** Feel free to reach out via my g-mail => [eng.n.zureik369@gmail.com].
 
+## 📚 Included Projects
+The following list have all the AI training projects available in this repository. Click the "Open in Colab" link to immediately launch the notebook in Google Colab for interactive viewing and execution.
+### MNIST Notebook :
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohamad-Nour-Zureik/YOUR_REPO_NAME/blob/main/MNIST.ipynb)
